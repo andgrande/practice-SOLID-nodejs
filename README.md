@@ -1,5 +1,5 @@
 <h3 align="center">
- Desafio Aplicando conceitos de SOLID no NodeJs realizado durante o bootcamp da <a href="https://github.com/rocketseat-education">Rocketseat</a>
+ Desafio Aplicando conceitos de SOLID no NodeJs e documentação com Swagget, realizado durante o bootcamp da <a href="https://github.com/rocketseat-education">Rocketseat</a>
 </h3>
 
 # 💻 Sobre o desafio
@@ -37,6 +37,10 @@ A rota deve receber, nos parâmetros da rota, o `id` de um usuário e devolver a
 ### GET `/users`
 
 A rota deve receber, pelo header da requisição, uma propriedade `user_id` contendo o `id` do usuário e retornar uma lista com todos os usuários cadastrados. O `id` deverá ser usado para validar se o usuário que está solicitando a listagem é um admin. O retorno da lista deve ser feito apenas se o usuário for admin. 
+
+#### SWAGGER
+
+`/api-docs`
 
 ## Específicação dos testes
 
