@@ -1,5 +1,5 @@
 <h3 align="center">
- Desafio Aplicando conceitos de SOLID no NodeJs e documentação com Swagget, realizado durante o bootcamp da <a href="https://github.com/rocketseat-education">Rocketseat</a>
+ Desafio Aplicando conceitos de SOLID no NodeJs e documentação com Swagger, realizado durante o bootcamp da <a href="https://github.com/rocketseat-education">Rocketseat</a>
 </h3>
 
 # 💻 Sobre o desafio
